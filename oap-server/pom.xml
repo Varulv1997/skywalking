@@ -93,7 +93,7 @@
         <freemarker.version>2.3.28</freemarker.version>
         <javaassist.version>3.25.0-GA</javaassist.version>
         <vavr.version>0.10.3</vavr.version>
-        <groovy.version>3.0.3</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
         <mvel.version>2.4.8.Final</mvel.version>
 
         <zookeeper.image.version>3.5</zookeeper.image.version>
