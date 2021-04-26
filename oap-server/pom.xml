@@ -65,7 +65,7 @@
         <jetty.version>9.4.28.v20200408</jetty.version>
         <h2.version>1.4.196</h2.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <elasticsearch.version>6.3.2</elasticsearch.version>
         <joda-time.version>2.10.5</joda-time.version>
         <kubernetes.version>8.0.0</kubernetes.version>
